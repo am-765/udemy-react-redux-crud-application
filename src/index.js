@@ -10,7 +10,7 @@ import './index.css';
 import reducer from './reducers';
 import EventsIndex from './components/events_index';
 import EventsNew from './components/events_new';
-import EventsShow from './components/event_show';
+import EventsShow from './components/events_show';
 import registerServiceWorker from './registerServiceWorker';
 
 const enhancer =
